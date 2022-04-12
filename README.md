@@ -1,7 +1,8 @@
 
 ## WeatherDashboard
 It's an application allowing a user to enter a location into a search and get the weather information for the next 5 days. Searches are saved for late use and quick access.
-[TheLivePage][urlgoeshere]
+![TheLivePageNoSearch](NoSearch.png)
+![TheLivePageWithSearch](withSearch.png)
 
 ## Technologies
 * HTML
