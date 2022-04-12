@@ -35,7 +35,7 @@ function savePastLocation (userSubmission) {
     });
   
     parsedLocationHistory.push(userSubmission);
-    localStorage.setItem('locationSHistory', JSON.stringify(parsedLocationHistory));
+    localStorage.setItem('locationsHistory', JSON.stringify(parsedLocationHistory));
   }
   
   function handleHistoryClick(event) {
